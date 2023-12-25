@@ -1,6 +1,6 @@
 # OSINT Tools
 
-Welcome to my collection of OSINT (Open Source Intelligence) tools! , i'll keep this list updated 
+Welcome to my collection of OSINT (Open Source Intelligence) tools! , i'll keep this list updated (made with love by low_iq <3)
 
 ## Image Reverse Search
 
