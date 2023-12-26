@@ -94,3 +94,59 @@ Welcome to my collection of OSINT (Open Source Intelligence) tools! , i'll keep 
 ### 10. Zoom Earth
 [Zoom Earth](https://zoom.earth/) offers high-resolution satellite imagery of Earth.
 
+
+# History
+
+Explore historical OSINT tools to gather information about the past and historical events.
+
+## Historical Records and Archives
+
+### 1. [Internet Archive](https://archive.org)
+The [Internet Archive](https://archive.org) is a digital library that offers access to a vast collection of historical websites, books, music, software, and more.
+
+### 2. [National Archives and Records Administration (NARA)](https://www.archives.gov)
+NARA provides access to U.S. historical records, including documents, photographs, and government records.
+
+### 3. [Europeana](https://www.europeana.eu)
+Europeana provides access to millions of cultural heritage items, including images, texts, and audiovisual material from European museums and galleries.
+
+### 4. [WW2 Database](https://ww2db.com)
+[WW2 Database](https://ww2db.com) is a resource for information about World War II, including biographies, events, and photos.
+
+### 5. [CFR Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker/)
+The [CFR Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker/) provides real-time information on conflicts worldwide.
+
+### 6. [World War I Museum and Memorial](https://www.theworldwar.org)
+The [World War I Museum and Memorial](https://www.theworldwar.org) offers resources and exhibits related to World War I.
+
+### 7. [Ancestry - World War I Records](https://www.ancestry.com/c/military-records/world-war-one-records)
+[Ancestry - World War I Records](https://www.ancestry.com/c/military-records/world-war-one-records) provides access to military records from World War I.
+
+## Historical Maps and Geography
+
+### 8. [David Rumsey Map Collection](https://www.davidrumsey.com)
+The David Rumsey Map Collection offers a vast array of historical maps, providing insights into the geography of different time periods.
+
+### 9. [Old Maps Online](https://www.oldmapsonline.org)
+Old Maps Online is a portal that allows you to discover historical maps from libraries around the world.
+
+## Oral History and Interviews
+
+### 10. [StoryCorps](https://storycorps.org)
+StoryCorps is an organization that records and shares oral histories, capturing personal stories and experiences.
+
+### 11. [British Library Sounds](https://sounds.bl.uk)
+Explore the British Library Sounds archive for historical audio recordings, including interviews, music, and spoken word.
+
+## Military History
+
+### 12. [National WWII Museum Digital Collections](https://digitalcollections.nationalww2museum.org)
+Access digital collections related to World War II, including photographs, documents, and oral histories.
+
+### 13. [Vietnam Center and Archive](https://www.vietnam.ttu.edu)
+The Vietnam Center and Archive at Texas Tech University provides resources on the Vietnam War, including documents and oral histories.
+
+## Historical Newspapers
+
+### 14. [Chronicling America](https://chroniclingamerica.loc.gov)
+Chronicling America, provided by the Library of Congress, offers access to historic American newspapers.
