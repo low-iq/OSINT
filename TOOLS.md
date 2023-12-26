@@ -1,152 +1,99 @@
-# OSINT Tools
+# <span style="color: #2196F3;">OSINT Tools</span>
 
-Welcome to my collection of OSINT (Open Source Intelligence) tools! , i'll keep this list updated (made with love by low_iq <3)
+Welcome to my collection of OSINT (Open Source Intelligence) tools! , I'll keep this list updated (made with love by low_iq <3)
 
-## Image Reverse Search
+## <span style="color: #FF5722;">Image Reverse Search</span>
 
-### 1. TinEye
+### 1. [TinEye](https://tineye.com/)
 [TinEye](https://tineye.com/) is a reverse image search engine that helps you find where an image appears on the web.
 
-### 2. Yandex.Images
+### 2. [Yandex.Images](https://yandex.com/)
 [Yandex.Images](https://yandex.com/) provides a reverse image search functionality similar to other search engines, allowing you to find similar images.
 
-### 3. Google Images
+### 3. [Google Images](https://images.google.com/)
 [Google Images](https://images.google.com/) offers a powerful reverse image search feature to discover information related to a particular image.
 
-### 4. OSINT Combine - Reverse Image Analyzer
+### 4. [OSINT Combine - Reverse Image Analyzer](https://www.osintcombine.com/reverse-image-analyzer)
 [OSINT Combine - Reverse Image Analyzer](https://www.osintcombine.com/reverse-image-analyzer) is a comprehensive tool for reverse image searches, providing additional analysis capabilities.
 
-## Means of Transport
+## <span style="color: #FF5722;">Means of Transport</span>
 
-### 1. Airliners.net
+### 1. [Airliners.net](https://www.airliners.net/)
 [Airliners.net](https://www.airliners.net/) is a platform for aviation enthusiasts, offering a vast collection of aircraft photos and information.
 
-### 2. AirlinersGallery (SmugMug)
+### 2. [AirlinersGallery (SmugMug)](https://airlinersgallery.smugmug.com)
 [AirlinersGallery (SmugMug)](https://airlinersgallery.smugmug.com) is a gallery featuring high-quality aviation photographs, perfect for identifying aircraft.
 
-### 3. AviationDB
+### 3. [AviationDB](https://www.aviationdb.com/index.shtm)
 [AviationDB](https://www.aviationdb.com/index.shtm) provides comprehensive aviation data, including aircraft information, registrations, and more.
 
-### 4. FAA Aircraft Inquiry
+### 4. [FAA Aircraft Inquiry](https://registry.faa.gov/aircraftinquiry)
 [FAA Aircraft Inquiry](https://registry.faa.gov/aircraftinquiry) allows you to search for information about registered aircraft in the United States.
 
-### 5. Airport Webcams
+### 5. [Airport Webcams](https://airportwebcams.net/)
 [Airport Webcams](https://airportwebcams.net/) offers live webcams from airports around the world, providing real-time views.
 
-### 6. Carnet AI
+### 6. [Carnet AI](https://carnet.ai/)
 [Carnet AI](https://carnet.ai/) is a platform that uses artificial intelligence for license plate recognition.
 
-### 7. FindByPlate
+### 7. [FindByPlate](https://findbyplate.com/)
 [FindByPlate](https://findbyplate.com/) allows you to search for vehicles using their license plate numbers.
 
-### 8. FlightConnections
+### 8. [FlightConnections](https://www.flightconnections.com)
 [FlightConnections](https://www.flightconnections.com) helps you find direct flights between airports, aiding in travel planning.
 
-### 9. MarineTraffic
+### 9. [MarineTraffic](https://www.marinetraffic.com)
 [MarineTraffic](https://www.marinetraffic.com) provides real-time information on ship movements and positions worldwide.
 
-### 10. VesselFinder
+### 10. [VesselFinder](https://www.vesselfinder.com)
 [VesselFinder](https://www.vesselfinder.com) is another platform for tracking vessel movements, offering AIS data and ship details.
 
-## Usernames
+## <span style="color: #FF5722;">Usernames</span>
 
-### 1. Sherlock
+### 1. [Sherlock](https://github.com/sherlock-project/sherlock)
 [Sherlock](https://github.com/sherlock-project/sherlock) is a tool for finding social media accounts by username across various platforms.
 
-### 2. CheckUsernames
+### 2. [CheckUsernames](https://checkusernames.com)
 [CheckUsernames](https://checkusernames.com) is a tool for checking the availability of a username across multiple social media platforms.
 
-### 3. WhatsMyName
+### 3. [WhatsMyName](https://whatsmyname.app/)
 [WhatsMyName](https://whatsmyname.app/) is a tool for discovering usernames across multiple platforms and websites.
 
-### 4. UserSearch
+### 4. [UserSearch](https://usersearch.org/index.php)
 [UserSearch](https://usersearch.org/index.php) is a tool for searching for usernames and profiles across various platforms.
 
-## GeoSINT/Geolocation/Satellite Imagery/Weather
+## <span style="color: #FF5722;">GeoSINT/Geolocation/Satellite Imagery/Weather</span>
 
-### 1. EarthCam
+### 1. [EarthCam](https://www.earthcam.com)
 [EarthCam](https://www.earthcam.com) provides live webcams and virtual tours from around the world, offering insights into various locations.
 
-### 2. AllAreaCodes
+### 2. [AllAreaCodes](https://www.allareacodes.com)
 [AllAreaCodes](https://www.allareacodes.com) provides information about area codes, helping in geolocation.
 
-### 3. Flags of the World
+### 3. [Flags of the World](https://www.fotw.info/flags/index.html)
 [Flags of the World](https://www.fotw.info/flags/index.html) is a comprehensive database of flags, useful for identifying countries.
 
-### 4. Insecam
+### 4. [Insecam](http://www.insecam.org)
 [Insecam](http://www.insecam.org) offers access to live cameras from different locations, providing real-time insights.
 
-### 5. Driving Directions and Maps
+### 5. [Driving Directions and Maps](https://www.drivingdirectionsandmaps.com/map-of-the-left-right-driving-countries/)
 [Driving Directions and Maps](https://www.drivingdirectionsandmaps.com/map-of-the-left-right-driving-countries/) provides maps indicating left and right-hand driving countries.
 
-### 6. N2YO
+### 6. [N2YO](https://www.n2yo.com)
 [N2YO](https://www.n2yo.com) allows you to track satellites and their positions in real-time.
 
-### 7. WorldCam
+### 7. [WorldCam](https://worldcam.eu)
 [WorldCam](https://worldcam.eu) offers a collection of live webcams worldwide, providing views of various locations.
 
-### 8. Living Atlas (ArcGIS)
+### 8. [Living Atlas (ArcGIS)](https://livingatlas.arcgis.com/en/apps/)
 [Living Atlas (ArcGIS)](https://livingatlas.arcgis.com/en/apps/) provides access to a collection of geographic data and maps.
 
-### 9. Copernicus DataSpace
+### 9. [Copernicus DataSpace](https://dataspace.copernicus.eu/browser/)
 [Copernicus DataSpace](https://dataspace.copernicus.eu/browser/) provides access to Copernicus Earth Observation data.
 
-### 10. Zoom Earth
+### 10. [Zoom Earth](https://zoom.earth/)
 [Zoom Earth](https://zoom.earth/) offers high-resolution satellite imagery of Earth.
 
+# <span style="color: #2196F3;">History</span>
 
-# History
-
-Explore historical OSINT tools to gather information about the past and historical events.
-
-## Historical Records and Archives
-
-### 1. [Internet Archive](https://archive.org)
-The [Internet Archive](https://archive.org) is a digital library that offers access to a vast collection of historical websites, books, music, software, and more.
-
-### 2. [National Archives and Records Administration (NARA)](https://www.archives.gov)
-NARA provides access to U.S. historical records, including documents, photographs, and government records.
-
-### 3. [Europeana](https://www.europeana.eu)
-Europeana provides access to millions of cultural heritage items, including images, texts, and audiovisual material from European museums and galleries.
-
-### 4. [WW2 Database](https://ww2db.com)
-[WW2 Database](https://ww2db.com) is a resource for information about World War II, including biographies, events, and photos.
-
-### 5. [CFR Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker/)
-The [CFR Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker/) provides real-time information on conflicts worldwide.
-
-### 6. [World War I Museum and Memorial](https://www.theworldwar.org)
-The [World War I Museum and Memorial](https://www.theworldwar.org) offers resources and exhibits related to World War I.
-
-### 7. [Ancestry - World War I Records](https://www.ancestry.com/c/military-records/world-war-one-records)
-[Ancestry - World War I Records](https://www.ancestry.com/c/military-records/world-war-one-records) provides access to military records from World War I.
-
-## Historical Maps and Geography
-
-### 8. [David Rumsey Map Collection](https://www.davidrumsey.com)
-The David Rumsey Map Collection offers a vast array of historical maps, providing insights into the geography of different time periods.
-
-### 9. [Old Maps Online](https://www.oldmapsonline.org)
-Old Maps Online is a portal that allows you to discover historical maps from libraries around the world.
-
-## Oral History and Interviews
-
-### 10. [StoryCorps](https://storycorps.org)
-StoryCorps is an organization that records and shares oral histories, capturing personal stories and experiences.
-
-### 11. [British Library Sounds](https://sounds.bl.uk)
-Explore the British Library Sounds archive for historical audio recordings, including interviews, music, and spoken word.
-
-## Military History
-
-### 12. [National WWII Museum Digital Collections](https://digitalcollections.nationalww2museum.org)
-Access digital collections related to World War II, including photographs, documents, and oral histories.
-
-### 13. [Vietnam Center and Archive](https://www.vietnam.ttu.edu)
-The Vietnam Center and Archive at Texas Tech University provides resources on the Vietnam War, including documents and oral histories.
-
-## Historical Newspapers
-
-### 14. [Chronicling America](https://chroniclingamerica.loc.gov)
-Chronicling America, provided by the Library of Congress, offers access to historic American newspapers.
+Explore historical OSINT tools to gather information about the past and
